@@ -1,5 +1,4 @@
-; Next base address: 0x1F030000
-LIBRARY HashCheck BASE=0x1F010000
+LIBRARY HashCheck
 
 EXPORTS
 	DllCanUnloadNow     PRIVATE

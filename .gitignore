@@ -13,3 +13,5 @@
 /UnitTests/bin
 /UnitTests/obj
 /UnitTests/vectors
+/.vs
+*.aps
